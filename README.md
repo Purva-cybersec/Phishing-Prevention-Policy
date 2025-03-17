@@ -36,10 +36,6 @@ Implement email security controls, phishing awareness training, and response ste
 
 Regularly review and update the policy to stay ahead of emerging threats.
 
-🔗 Download Policy
-
-📄 Click here to access the full Phishing Prevention Policy (Ensure this link is updated to match your repository structure.)
-
 🤝 Contributing
 
 If you have suggestions for improving this policy or want to contribute enhancements, feel free to submit a pull request or open an issue.
