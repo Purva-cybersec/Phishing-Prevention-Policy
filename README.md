@@ -46,7 +46,7 @@ If you have suggestions for improving this policy or want to contribute enhancem
 
 📢 Connect With Me
 
-This is part of my learning & implementation series on GRC and security policies. Let’s collaborate and share knowledge! 🚀🔗 Connect with me on LinkedIn: [Your LinkedIn Profile]💡 Let's discuss: What’s your best tip for spotting phishing emails? Comment below!
+This is part of my learning & implementation series on GRC and security policies. Let’s collaborate and share knowledge! 🚀🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/purva-rumde/💡 Let's discuss: What’s your best tip for spotting phishing emails? Comment below!
 
 📌 License
 
